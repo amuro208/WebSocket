@@ -1,6 +1,6 @@
 #!/usr/bin/env php
 <?php
-
+/*GitTest*/
 require_once('./websockets.php');
 
 class CMDServer extends WebSocketServer {
